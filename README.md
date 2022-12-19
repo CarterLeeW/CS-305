@@ -1,7 +1,7 @@
 # CS-305
 
 Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
-  The client was a global banking/finance service that required secure transactions and file transfers. They specifically wished for us to perform encryption and checksum verification for their file transfers.
+ \nThe client was a global banking/finance service that required secure transactions and file transfers. They specifically wished for us to perform encryption and checksum verification for their file transfers.
   
 What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
   When performing manual review of the code, I was able to catch vulnerabilities such as revealing paths or using root access for the server by default. Coding securely from the beginning will stop issues from unearthing later in the SDLC. This will result in cost saving and will prevent trust issues or legal action in the result of a breach.
